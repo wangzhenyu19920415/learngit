@@ -4,3 +4,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creatiing a new branch is quick.
 Last modify.
+Creating a new branch is quick AND simple.
